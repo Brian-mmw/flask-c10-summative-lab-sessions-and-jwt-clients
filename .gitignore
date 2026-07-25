@@ -10,3 +10,4 @@ venv/
 instance/
 .ipynb_checkpoints
 .DS_Store
+*.txt
